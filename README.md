@@ -1,2 +1,0 @@
-# myresources
-My Resources
