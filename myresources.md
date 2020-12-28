@@ -21,4 +21,10 @@ www.codewars.com
 www.devdocs.io
 web.archive.org
 
+## Emmet Shortcuts
+www.docs.emmet.io/cheat-sheet/
+
+## Unicode Characters and Icons
+www.unicode-table.com/en
+
 
