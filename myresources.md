@@ -1,4 +1,4 @@
-# myresources
+# My Resources
 My Resources From Zero to Hero
 
 ## Photobucket.com
@@ -24,7 +24,8 @@ web.archive.org
 ## Emmet Shortcuts
 www.docs.emmet.io/cheat-sheet/
 
-## Unicode Characters and Icons
+## Unicode Characters, Emojis and Icons
 www.unicode-table.com/en
 
-
+## Crop Images
+www.crop-circle.imageonline.co
