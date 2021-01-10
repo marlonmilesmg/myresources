@@ -29,3 +29,9 @@ www.unicode-table.com/en
 
 ## Crop Images
 www.crop-circle.imageonline.co
+
+## Color Hunt Pick Nice New Trendy Colors
+https://colorhunt.co/
+
+## Material Palette
+https://www.materialpalette.com/colors
