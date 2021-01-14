@@ -35,3 +35,10 @@ https://colorhunt.co/
 
 ## Material Palette
 https://www.materialpalette.com/colors
+
+## Emojipedia for all your emojis
+https://emojipedia.org/
+
+## Mozilla Development Network Web Docs
+https://developer.mozilla.org/en-US/
+
