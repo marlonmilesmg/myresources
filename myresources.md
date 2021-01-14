@@ -42,3 +42,6 @@ https://emojipedia.org/
 ## Mozilla Development Network Web Docs
 https://developer.mozilla.org/en-US/
 
+## Favicon Generator
+https://www.favicon.cc/
+
