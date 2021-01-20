@@ -45,3 +45,8 @@ https://developer.mozilla.org/en-US/
 ## Favicon Generator
 https://www.favicon.cc/
 
+## XD Designs Samples and Mood Boards
+https://dribbble.com
+https://niice.co
+https://www.behance.net
+
