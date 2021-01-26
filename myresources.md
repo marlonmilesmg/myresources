@@ -53,3 +53,9 @@ https://www.behance.net
 ## Gradient Colors
 https://www.grabient.com
 
+## Adobe XD Plugins Must Have
+Photosplash
+Mimic
+UI Faces
+Content Generator
+
