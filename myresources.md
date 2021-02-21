@@ -59,3 +59,9 @@ Mimic
 UI Faces
 Content Generator
 
+## Most Used Fonts Tracker
+https://www.cssfontstack.com
+
+## GIPHY and Stickers
+https://www.giphy.com
+
