@@ -68,3 +68,9 @@ https://www.giphy.com
 ## CSS Button Generator
 https://cssbuttongenerator.com/
 
+## CODEPLY Playground
+https://www.codeply.com/
+
+## Bootstrap
+https://getbootstrap.com/
+
