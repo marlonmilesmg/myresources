@@ -74,3 +74,6 @@ https://www.codeply.com/
 ## Bootstrap
 https://getbootstrap.com/
 
+## Bootstrap Snipp Free and Licensed Bootstrap
+https://bootsnipp.com/
+
