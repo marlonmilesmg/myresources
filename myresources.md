@@ -77,3 +77,5 @@ https://getbootstrap.com/
 ## Bootstrap Snipp Free and Licensed Bootstrap
 https://bootsnipp.com/
 
+## Principles of Writing Consistent, Idiomatic JavaScript
+https://github.com/rwaldron/idiomatic.js/
