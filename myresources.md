@@ -82,3 +82,7 @@ https://github.com/rwaldron/idiomatic.js/
 
 ## Flutter UI Mocking and Code Generation
 https://flutterstudio.app/
+
+## Zapper Zap Works
+ZapWorks is the complete augmented reality toolkit for agencies and businesses who want to push the boundaries of creativity and storytelling.
+https://zap.works/
