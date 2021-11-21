@@ -90,3 +90,8 @@ https://zap.works/
 ## Content Creation Spin ReWriter
 Generate your unique content as per topic
 https://www.spinrewriter.com/
+
+## Flutter UI Designs
+GetWidget UI Library for Flutter
+https://blogs.thebitx.com/index.php/2021/07/09/flutter-card-widgets-built-card-design-with-image-text/
+https://pub.dev/packages/getwidget
